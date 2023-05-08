@@ -1,0 +1,40 @@
+
+
+body{
+    background-color: rgb(27, 130, 174);
+    text-align: center;
+    margin:0;
+
+}
+
+h1{
+    background-color: bisque;
+    padding:20px;
+    font-family: 'Special Elite', cursive;
+}
+
+#i1{
+    width:75%;
+    
+
+}
+
+.image{
+    width: 40%;
+    height: 500px;
+    margin: 20px;
+}
+
+#i2{
+    width: 71%;
+}
+
+#i5{
+    width: 70%;
+    
+}
+
+#i6{
+    width: 70%;
+}
+
